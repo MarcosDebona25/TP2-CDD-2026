@@ -1,0 +1,22 @@
+# --- Ciencia de Datos & EDA ---
+pandas
+numpy
+matplotlib
+seaborn
+
+# --- Procesamiento de Lenguaje Natural (NLP) & Embeddings ---
+nltk
+spacy
+gensim
+wordcloud
+
+# --- Aprendizaje Automático Tradicional ---
+scikit-learn
+imbalanced-learn
+
+# --- Deep Learning (MLP avanzado, LSTM, Embeddings layers) ---
+torch
+
+# --- Entorno de Jupyter ---
+ipykernel
+notebook
