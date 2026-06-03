@@ -9,6 +9,7 @@ nltk
 spacy
 gensim
 wordcloud
+sentence-transformers
 
 # --- Aprendizaje Automático Tradicional ---
 scikit-learn
