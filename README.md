@@ -34,3 +34,10 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+
+
+---
+
+### **Documentación adicional**
+
+Para documentación adicional ver archivos disponibles en /docs.
